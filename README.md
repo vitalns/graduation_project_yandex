@@ -1,3 +1,4 @@
+- Решение задачи регрессии: предсказать температуру сплава в конце процесса обработки стали;
 - Используемые библиотеки: numpy, pandas, matplotlib, seaborn, ploty, lightgbm, catboost, hyperopt, keras;
 - Анализ и чистка данных (обработка пропусков и выбросов): describe, agg, groupby, apply, query, to_datetime, isnull, fillna, dropna, join, concat, ...;
 - Проверка данных на мультиколлениарность: corr (heatmap), variance_inflation_factor (VIF анализ), SelectKBest (F-regression);
